@@ -2,7 +2,7 @@
 
 Here I'm analyzing some data from Uber, aiming to practice some EDA skills.
 
-Questions I'll try to answer:
+**Questions I'll try to answer:**
 - How far do people travel by Uber?
 - What time do people use Uber the most?
 - What is the purpose of the trip?
